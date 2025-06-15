@@ -3,10 +3,6 @@
 A lightweight, extensible **RichText tag formatter** for Roblox.  
 Turn easy-to-read placeholder tags like `<rare>`, `<damage>`, or even standard `<b>`/`<i>` into full Roblox **RichText** markup – complete with colors, strokes, uppercase text, and more.
 
-```mermaid
-graph TD; Template["<rare>Rare <damage>100</damage> Sword</rare>"] -->|richTags.format| Result["<font color='rgb(33, 159, 255)'><stroke⋯><uppercase>RARE <font color='rgb(255, 70, 70)'>100</font> SWORD</uppercase></stroke></font>"]
-```
-
 ---
 
 ## ✨ Features
